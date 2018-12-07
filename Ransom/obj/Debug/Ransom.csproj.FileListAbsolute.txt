@@ -1,0 +1,7 @@
+C:\Users\Joshua\source\repos\Ransom\Ransom\bin\Debug\Ransom.exe.config
+C:\Users\Joshua\source\repos\Ransom\Ransom\bin\Debug\Ransom.exe
+C:\Users\Joshua\source\repos\Ransom\Ransom\bin\Debug\Ransom.pdb
+C:\Users\Joshua\source\repos\Ransom\Ransom\obj\Debug\Ransom.csprojAssemblyReference.cache
+C:\Users\Joshua\source\repos\Ransom\Ransom\obj\Debug\Ransom.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Ransom\Ransom\obj\Debug\Ransom.exe
+C:\Users\Joshua\source\repos\Ransom\Ransom\obj\Debug\Ransom.pdb
